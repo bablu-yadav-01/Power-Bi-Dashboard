@@ -1,5 +1,8 @@
 # Power-Bi-Dashboard
-CRUNCHY CORNER SALES DASHBOARD
+
+CRUNCHY CORNER SALES DASHBOARD          
+
+
 I recently completed a comprehensive financial analysis and business optimization project for Crunchy Corner, one of india's largest fast food chains,under the guidance of Mohd Kasfur Dhuniyan. Here's a look at what i accomplished:
 Project Overview:
 Client: Crunchy Corner, serving millions daily!
